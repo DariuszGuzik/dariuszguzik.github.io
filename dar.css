@@ -135,8 +135,8 @@ a img {
     font-family: 'Montserrat';
     font-weight: 200;
     font-style: normal;
-    src: url('fonts/Montserrat-ExtraLight.woff2') format('woff2'),
-         url('fonts/Montserrat-ExtraLight.woff') format('woff');
+    src: url('/fonts/Montserrat-ExtraLight.woff2') format('woff2'),
+         url('/fonts/Montserrat-ExtraLight.woff') format('woff');
 }
 
 /** Montserrat ExtraLight-Italic **/
@@ -171,8 +171,8 @@ a img {
     font-family: 'Montserrat';
     font-weight: 400;
     font-style: normal;
-    src: url('fonts/Montserrat-Regular.woff2') format('woff2'),
-         url('fonts/Montserrat-Regular.woff') format('woff');
+    src: url('/fonts/Montserrat-Regular.woff2') format('woff2'),
+         url('/fonts/Montserrat-Regular.woff') format('woff');
 }
 
 /** Montserrat Regular-Italic **/
