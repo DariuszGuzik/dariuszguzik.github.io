@@ -1,1 +1,2 @@
-# dariuszguzik.github.io
+DariuszGuzik.net
+Copyright &copy; by Dariusz Guzik
