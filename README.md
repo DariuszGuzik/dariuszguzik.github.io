@@ -1,3 +1,3 @@
-######DariuszGuzik.net https://dariuszguzik.net ######
+###### DariuszGuzik.net https://dariuszguzik.net
 
-######Copyright &copy; by Dariusz Guzik######
+###### Copyright &copy; by Dariusz Guzik
